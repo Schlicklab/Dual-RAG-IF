@@ -1,0 +1,3 @@
+python dualRAGIF.py 77nt_FSE.ct 1 3_3 tmpf=tmpf.out k=3
+
+python dualRAGIF.py 77nt_FSE.ct 2 3_5inpf tmpf=tmpf.out k=3

@@ -1,0 +1,266 @@
+
+Optimizing Sequence 1
+[ 67-G 68-U 69-U 72-A 73-U 74-A ] before
+remove 4 point mutations
+[ 72-A 73-U ] after
+
+Optimizing Sequence 2
+[ 35-C 68-G 70-U 71-U 72-A 74-C ] before
+remove 5 point mutations
+[ 70-U ] after
+
+Optimizing Sequence 3
+[ 38-G 39-C 67-C 68-G 69-G 72-C ] before
+remove 2 point mutations
+[ 38-G 68-G 69-G 72-C ] after
+
+Optimizing Sequence 4
+[ 35-A 37-A 68-G 72-U 73-U 74-G ] before
+remove 4 point mutations
+[ 68-G 72-U ] after
+
+Optimizing Sequence 6
+[ 34-U 35-A 68-U 69-U 71-U 72-C 74-G ] before
+remove 5 point mutations
+[ 71-U 72-C ] after
+
+Optimizing Sequence 7
+[ 36-G 38-G 39-C 67-U 68-G 71-U 74-C ] before
+remove 3 point mutations
+[ 38-G 67-U 71-U 74-C ] after
+
+Optimizing Sequence 8
+[ 35-C 36-A 38-G 68-G 69-U 72-C 74-A ] before
+remove 3 point mutations
+[ 38-G 68-G 69-U 72-C ] after
+
+Optimizing Sequence 9
+[ 37-U 68-A 69-C 70-A 71-U 72-A 74-A ] before
+remove 4 point mutations
+[ 71-U 72-A 69-C ] after
+
+Optimizing Sequence 10
+[ 34-G 35-U 37-A 68-G 72-C 73-U 74-C ] before
+remove 3 point mutations
+[ 68-G 73-U 74-C 37-A ] after
+
+Optimizing Sequence 11
+[ 35-A 38-G 39-C 67-U 68-A 69-G 72-C ] before
+remove 3 point mutations
+[ 68-A 69-G 72-C 38-G ] after
+
+Optimizing Sequence 13
+[ 35-U 37-U 39-U 67-U 68-U 71-U 74-C ] before
+remove 4 point mutations
+[ 39-U 71-U 68-U ] after
+
+Optimizing Sequence 14
+[ 34-U 35-U 38-U 39-C 67-U 68-A 69-U 71-U ] before
+remove 3 point mutations
+[ 38-U 39-C 67-U 68-A 71-U ] after
+
+Optimizing Sequence 15
+[ 34-U 35-A 37-C 39-U 67-G 68-G 69-G 72-C ] before
+remove 2 point mutations
+[ 35-A 37-C 39-U 68-G 69-G 72-C ] after
+
+Optimizing Sequence 17
+[ 34-U 35-A 67-G 68-A 69-C 70-A 71-U 72-U ] before
+remove 6 point mutations
+[ 68-A 72-U ] after
+
+Optimizing Sequence 18
+[ 35-U 38-U 39-C 67-U 68-G 69-G 72-C 74-A ] before
+remove 3 point mutations
+[ 39-C 68-G 69-G 72-C 35-U ] after
+
+Optimizing Sequence 21
+[ 35-A 36-G 38-U 39-A 68-G 69-U 72-C 74-G ] before
+remove 3 point mutations
+[ 38-U 39-A 68-G 69-U 72-C ] after
+
+Optimizing Sequence 22
+[ 34-U 35-U 38-U 39-A 68-G 69-G 72-C 74-G ] before
+remove 4 point mutations
+[ 39-A 68-G 69-G 72-C ] after
+
+Optimizing Sequence 24
+[ 34-U 35-C 36-C 37-U 68-U 69-U 70-C 73-U ] before
+remove 5 point mutations
+[ 68-U 70-C 69-U ] after
+
+Optimizing Sequence 30
+[ 34-G 35-A 36-G 38-U 39-C 68-U 71-U 74-G ] before
+remove 4 point mutations
+[ 38-U 39-C 68-U 71-U ] after
+
+Optimizing Sequence 32
+[ 35-A 38-U 39-C 68-G 69-G 71-C 72-C 73-A ] before
+remove 2 point mutations
+[ 39-C 68-G 71-C 72-C 73-A 38-U ] after
+
+Optimizing Sequence 39
+[ 34-A 35-A 36-A 37-A 68-A 69-G 71-U 72-A 74-A ] before
+remove 3 point mutations
+[ 68-A 69-G 71-U 72-A 34-A 37-A ] after
+
+Optimizing Sequence 45
+[ 34-A 35-A 36-A 38-U 39-C 67-U 68-G 69-G 72-C ] before
+remove 4 point mutations
+[ 38-U 39-C 68-G 69-G 72-C ] after
+
+Optimizing Sequence 49
+[ 35-U 36-A 38-U 39-C 67-G 68-A 69-G 70-C 72-C ] before
+remove 4 point mutations
+[ 38-U 39-C 68-A 69-G 72-C ] after
+
+Optimizing Sequence 50
+[ 35-A 36-A 38-U 39-U 67-U 68-A 69-G 70-C 72-C ] before
+remove 5 point mutations
+[ 39-U 68-A 69-G 72-C ] after
+
+Optimizing Sequence 51
+[ 34-U 35-A 36-A 38-U 39-U 67-U 68-G 69-G 72-C ] before
+remove 5 point mutations
+[ 39-U 68-G 69-G 72-C ] after
+
+Optimizing Sequence 64
+[ 34-U 35-C 36-A 37-C 38-U 39-U 68-G 69-U 72-C ] before
+remove 5 point mutations
+[ 39-U 68-G 69-U 72-C ] after
+
+Optimizing Sequence 67
+[ 35-U 36-C 37-C 38-U 39-C 67-C 68-U 69-G 74-C ] before
+remove 5 point mutations
+[ 38-U 39-C 68-U 74-C ] after
+
+Optimizing Sequence 74
+[ 35-A 36-C 37-A 67-C 68-G 69-G 71-A 72-A 74-A ] before
+remove 6 point mutations
+[ 35-A 72-A 74-A ] after
+
+Optimizing Sequence 80
+[ 35-U 36-G 37-U 39-C 67-C 68-U 71-U 73-U 74-G ] before
+remove 4 point mutations
+[ 37-U 39-C 68-U 71-U 35-U ] after
+
+Optimizing Sequence 84
+[ 34-U 35-C 36-A 38-G 39-C 67-C 68-U 72-C 74-C ] before
+remove 5 point mutations
+[ 38-G 39-C 67-C 68-U ] after
+
+Optimizing Sequence 87
+[ 34-G 35-C 37-C 39-A 67-G 68-U 71-U 73-U 74-C ] before
+remove 5 point mutations
+[ 37-C 39-A 68-U 71-U ] after
+
+Optimizing Sequence 90
+[ 34-U 35-C 38-U 39-A 67-C 68-U 69-U 71-U 74-C ] before
+remove 5 point mutations
+[ 38-U 39-A 68-U 71-U ] after
+
+Optimizing Sequence 91
+[ 34-U 35-A 37-C 38-A 39-C 68-A 69-G 72-C 74-G ] before
+remove 4 point mutations
+[ 38-A 39-C 68-A 69-G 72-C ] after
+
+Optimizing Sequence 92
+[ 34-G 35-U 67-U 68-U 69-U 71-U 72-U 73-A 74-C ] before
+remove 7 point mutations
+[ 71-U 72-U ] after
+
+Optimizing Sequence 114
+[ 35-U 36-A 38-U 39-C 67-G 68-G 69-U 71-C 72-C 74-C ] before
+remove 5 point mutations
+[ 38-U 39-C 68-G 69-U 72-C ] after
+
+Optimizing Sequence 148
+[ 34-U 35-C 37-C 38-U 39-C 67-G 68-G 69-G 72-A 74-G ] before
+remove 4 point mutations
+[ 35-C 37-C 39-C 67-G 68-G 69-G ] after
+
+Optimizing Sequence 155
+[ 34-A 35-A 67-G 68-U 69-U 70-A 71-U 72-A 73-G 74-G ] before
+remove 7 point mutations
+[ 70-A 74-G 68-U ] after
+
+Optimizing Sequence 156
+[ 34-U 35-A 36-C 37-U 38-U 39-A 67-C 68-U 72-C 74-C ] before
+remove 5 point mutations
+[ 35-A 39-A 67-C 68-U 37-U ] after
+
+Optimizing Sequence 165
+[ 34-A 35-A 37-A 38-A 39-C 68-G 69-G 70-A 71-U 74-C ] before
+remove 3 point mutations
+[ 38-A 39-C 68-G 69-G 70-A 71-U 74-C ] after
+
+Optimizing Sequence 168
+[ 34-G 35-C 36-G 37-C 38-U 39-C 67-U 68-G 69-G 71-U ] before
+remove 5 point mutations
+[ 38-U 39-C 67-U 68-G 71-U ] after
+
+Optimizing Sequence 172
+[ 34-U 35-U 37-C 38-U 39-A 67-U 68-G 69-U 71-U 74-C ] before
+remove 6 point mutations
+[ 39-A 67-U 71-U 74-C ] after
+
+Optimizing Sequence 176
+[ 34-G 35-A 36-A 37-A 67-C 68-U 70-A 71-A 73-U 74-C ] before
+remove 8 point mutations
+[ 35-A 73-U ] after
+
+Optimizing Sequence 347
+[ 34-G 35-A 36-A 37-A 38-U 67-C 68-G 69-G 70-A 71-U 72-A 73-A 74-C ] before
+remove 10 point mutations
+[ 68-G 70-A 36-A ] after
+
+Optimizing Sequence 351
+[ 34-U 35-C 36-G 37-U 38-A 39-C 67-U 68-G 69-U 71-C 72-C 73-U 74-A ] before
+remove 6 point mutations
+[ 38-A 39-C 67-U 68-G 69-U 71-C 72-C ] after
+
+unique patterns: --b
+['72-A', '73-U'] b
+['70-U'] b
+['38-G', '68-G', '69-G', '72-C'] b
+['68-G', '72-U'] b
+['71-U', '72-C'] b
+['38-G', '67-U', '71-U', '74-C'] b
+['38-G', '68-G', '69-U', '72-C'] b
+['69-C', '71-U', '72-A'] b
+['37-A', '68-G', '73-U', '74-C'] b
+['38-G', '68-A', '69-G', '72-C'] b
+['39-U', '68-U', '71-U'] b
+['38-U', '39-C', '67-U', '68-A', '71-U'] b
+['35-A', '37-C', '39-U', '68-G', '69-G', '72-C'] b
+['68-A', '72-U'] b
+['35-U', '39-C', '68-G', '69-G', '72-C'] b
+['38-U', '39-A', '68-G', '69-U', '72-C'] b
+['39-A', '68-G', '69-G', '72-C'] b
+['68-U', '69-U', '70-C'] b
+['38-U', '39-C', '68-U', '71-U'] b
+['38-U', '39-C', '68-G', '71-C', '72-C', '73-A'] b
+['34-A', '37-A', '68-A', '69-G', '71-U', '72-A'] b
+['38-U', '39-C', '68-G', '69-G', '72-C'] b
+['38-U', '39-C', '68-A', '69-G', '72-C'] b
+['39-U', '68-A', '69-G', '72-C'] b
+['39-U', '68-G', '69-G', '72-C'] b
+['39-U', '68-G', '69-U', '72-C'] b
+['38-U', '39-C', '68-U', '74-C'] b
+['35-A', '72-A', '74-A'] b
+['35-U', '37-U', '39-C', '68-U', '71-U'] b
+['38-G', '39-C', '67-C', '68-U'] b
+['37-C', '39-A', '68-U', '71-U'] b
+['38-U', '39-A', '68-U', '71-U'] b
+['38-A', '39-C', '68-A', '69-G', '72-C'] b
+['71-U', '72-U'] b
+['38-U', '39-C', '68-G', '69-U', '72-C'] b
+['35-C', '37-C', '39-C', '67-G', '68-G', '69-G'] b
+['68-U', '70-A', '74-G'] b
+['35-A', '37-U', '39-A', '67-C', '68-U'] b
+['38-A', '39-C', '68-G', '69-G', '70-A', '71-U', '74-C'] b
+['38-U', '39-C', '67-U', '68-G', '71-U'] b
+['39-A', '67-U', '71-U', '74-C'] b
+['35-A', '73-U'] b
+['36-A', '68-G', '70-A'] b
+['38-A', '39-C', '67-U', '68-G', '69-U', '71-C', '72-C'] b
